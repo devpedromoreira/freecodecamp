@@ -1,0 +1,51 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+    <main>
+        <h1>3 Best Rock Songs Of All Time</h1>
+        <p>When it comes to rock music, certain songs have stood the test of time, earning their place as timeless classics. These tracks not only define the genre but also shape the culture of generations. From iconic guitar riffs to unforgettable lyrics, the best rock songs of all time are those that continue to resonate with fans around the world. In this list, we’ll explore some of the most influential and legendary rock songs that have left an indelible mark on music history.</p>
+        <section>
+            <h2>Led Zeppelin - "Stairway to Heaven"</h2>
+            <p> This song is basically a rock epic. It starts soft, builds in intensity, and culminates in one of the most iconic guitar solos in history. Plus, the lyrics are full of symbolism and poetry, making it one of the most analyzed and beloved songs in rock history.</p>
+            <iframe
+            src="https://www.youtube.com/watch?v=QkF3oxziUI4" 
+            title="Stairway to Heaven" 
+            width="560" 
+            height="315">
+            </iframe>
+        </section>
+        <section>
+            <h2>The Rolling Stones - "Paint It Black"</h2>
+            <p> This track has a unique energy, with that unforgettable guitar riff. The mix of rock and Indian influences, along with its dark lyrics about grief and despair, created a timeless classic.</p>
+            <iframe
+            src="https://www.youtube.com/watch?v=O4irXQhgMqg" 
+            title="Stairway to Heaven" 
+            width="560" 
+            height="315">
+            </iframe>
+        </section>
+         <section>
+            <h2>Queen - "Bohemian Rhapsody"</h2>
+            <p>"Bohemian Rhapsody" is pure genius. A blend of rock, opera, ballad, and hard rock. Its complex composition and Freddie Mercury's legendary vocals make it one of the most experimental and surprising songs in rock history.</p>
+            <iframe
+            src="https://www.youtube.com/watch?v=vbvyNnw8Qjg" 
+            title="Stairway to Heaven" 
+            width="560" 
+            height="315">
+            </iframe>
+        </section>
+    </main>
+</body>
+
+</html>
+
+** end of index.html **
+
