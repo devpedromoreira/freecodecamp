@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Travel Agency Pedro Moreira</title>
+    <meta name="description" content="the best travel agency in the world">
+  </head>
+  <body>
+    <h1>Discovery Switzerland</h1>
+    <p>Explore as maravilhas da Suíça com paisagens alpinas, cidades encantadoras e experiências únicas em cada estação.</p>
+    <h2>Packages</h2>
+    <p> Offer a variety of packages to suit different travel styles: from group tours with Portuguese-speaking guides, perfect for those who enjoy sharing experiences and exploring major sights with comfort and safety, to exclusive private tours with dedicated drivers and guides, providing full flexibility and a personalized itinerary to make the most of Switzerland in a unique and luxurious way.</p>
+    <ul>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+    </ul>
+<h2>Top Itineraries</h2>
+
+<figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="Zurich City">
+    </a>
+  <figcaption>Zurich City</figcaption>
+</figure>
+
+<figure>
+  <a href="https://www.freecodecamp.org/learn" target="_blank">
+  <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="Beautiful Swiss Alps">
+  </a>
+  <figcaption>Beautiful Swiss Alps</figcaption>
+</figure>
+
+<figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="Serene sea view">
+  </a>
+  <figcaption>Serene sea view</figcaption>
+</figure>
+<figure>
+    <a href="https://www.freecodecamp.org/learn" target="_blank">
+    <img src="https://lh3.googleusercontent.com/proxy/FWYOIVdvCjx4szZy1sy8_8YjZvzZUJLPdFWTnQy8w01JLRvx3Rg0QJIXK-M-Dh30UHCENBYwnWLwNUAiokxh" alt="Zurich City">
+    </a>
+    <figcaption> Zurich City</figcaption>
+  </body>
+</html>
